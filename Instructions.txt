@@ -1,0 +1,18 @@
+Basic CRUD Operation 
+
+Teacher CRUD
+
+C = Create
+R = Read
+U = Update
+D = Delete
+
+Teacher CRUD APIs
+
+* useEffect() Hooks
+	- useEffect is a function used for whenever we load a component if we want to call some APIs then we can use the useEffect hooks.
+
+
+array.map((cv,idx,arr)=>{
+	return 	
+})
