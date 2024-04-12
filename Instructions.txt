@@ -1,3 +1,7 @@
+	ALWAYS OPEN INSPECT ELEMENT
+for calling API - network tab
+for calling log - console tab
+
 Basic CRUD Operation 
 
 Teacher CRUD
@@ -13,6 +17,22 @@ Teacher CRUD APIs
 	- useEffect is a function used for whenever we load a component if we want to call some APIs then we can use the useEffect hooks.
 
 
-array.map((cv,idx,arr)=>{
-	return 	
+oldaoo.map((cv,idx,arr)=>{
+	return oldaoo
 })
+
+Action Buttons
+1. Delete
+2. Update
+3. View
+
+button is button
+anchor (a) is button
+input type="button" is a button
+
+onClick
+
+Traversing (Travel)
+Parent ---> Child (Traversing Down)
+Child  ---> Parent (Traversing Up)
+
